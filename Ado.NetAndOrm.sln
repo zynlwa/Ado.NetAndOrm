@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetAndOrm", "Ado.NetAndOrm\Ado.NetAndOrm.csproj", "{8AFDC344-62BC-4496-8CCF-A191B381504C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AFDC344-62BC-4496-8CCF-A191B381504C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFDC344-62BC-4496-8CCF-A191B381504C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFDC344-62BC-4496-8CCF-A191B381504C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFDC344-62BC-4496-8CCF-A191B381504C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3358CE69-7EA5-40DC-A608-1B148B1C1956}
+	EndGlobalSection
+EndGlobal
